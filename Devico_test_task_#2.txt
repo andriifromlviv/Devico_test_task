@@ -1,0 +1,5 @@
+html/body/div/div/div[2]/section[1]/div/div/div[1]/a/div - full xPath to button 'Get in Touch' under the 'Let's make an extraordinary product together' section
+.home-top-section__button-container > .button  - CSS selector for button 'Get in Touch' under the 'Let's make an extraordinary product together' section
+
+
+
